@@ -67,8 +67,4 @@ $ npm install
 
 # Run the app
 $ npm start
-```
 
-## Contact
-
-- GitHub [@trca1996](https://github.com/trca1996)
